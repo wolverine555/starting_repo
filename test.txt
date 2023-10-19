@@ -7,3 +7,5 @@ To further test the usage of git.
 New changes done.
 
 Look-out world, here I come!
+
+Git pull and trying to merge changes
