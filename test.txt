@@ -1,0 +1,7 @@
+Hello!
+
+This is a total new file!
+
+To further test the usage of git.
+
+New changes done.
